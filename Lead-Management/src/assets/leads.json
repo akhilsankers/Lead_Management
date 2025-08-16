@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 3100,
+    "customer": "Holly Williams",
+    "company": "Macias, Ball and Hernandez",
+    "email": "sergiosmith@gonzalez.com",
+    "phone": "001-240-753-2746x2809",
+    "value": "$2182.63",
+    "tags": [
+      "Review"
+    ],
+    "source": "UpWork",
+    "assigned": "Mike Smith",
+    "status": "Contacted",
+    "created": "Jan 11, 2025"
+  },
+  {
+    "id": 3101,
+    "customer": "Jerry Morris",
+    "company": "Flores, Miller and Hoover",
+    "email": "jacobsdavid@thompson-jones.net",
+    "phone": "6975821168",
+    "value": "$6927.29",
+    "tags": [
+      "Urgent"
+    ],
+    "source": "LinkedIn",
+    "assigned": "David Wilson",
+    "status": "Proposal Sent",
+    "created": "Apr 13, 2025"
+  },
+  {
+    "id": 3102,
+    "customer": "Christopher Jacobs",
+    "company": "Lambert, Richardson and Schultz",
+    "email": "dsilva@becker-anderson.com",
+    "phone": "(443)331-6512",
+    "value": "$8010.72",
+    "tags": [
+      "Cold Lead"
+    ],
+    "source": "LinkedIn",
+    "assigned": "Mike Smith",
+    "status": "Working",
+    "created": "Feb 16, 2025"
+  },
+  {
+    "id": 3103,
+    "customer": "Daniel Cole",
+    "company": "Cox-Pittman",
+    "email": "jjones@blackburn-johnson.com",
+    "phone": "5644008545",
+    "value": "$8757.92",
+    "tags": [
+      "Review"
+    ],
+    "source": "LinkedIn",
+    "assigned": "Sarah Brown",
+    "status": "Customer",
+    "created": "May 11, 2025"
+  },
+  {
+    "id": 3104,
+    "customer": "Katie Herrera",
+    "company": "Brown, Davis and Donovan",
+    "email": "jennifer57@anderson.com",
+    "phone": "(228)779-8109x57557",
+    "value": "$4941.24",
+    "tags": [
+      "Cold Lead"
+    ],
+    "source": "Facebook",
+    "assigned": "Mike Smith",
+    "status": "Contacted",
+    "created": "Mar 09, 2025"
+  },
+  {
+    "id": 3105,
+    "customer": "Laurie Williams",
+    "company": "Shea, Pope and Munoz",
+    "email": "brandon08@yahoo.com",
+    "phone": "9009185476",
+    "value": "$7073.34",
+    "tags": [
+      "Important"
+    ],
+    "source": "UpWork",
+    "assigned": "David Wilson",
+    "status": "Contacted",
+    "created": "May 14, 2025"
+  },
+  {
+    "id": 3106,
+    "customer": "Julia Evans",
+    "company": "Walker, Perez and Collins",
+    "email": "carlastokes@gmail.com",
+    "phone": "712-849-9278",
+    "value": "$1171.84",
+    "tags": [
+      "Cold Lead"
+    ],
+    "source": "UpWork",
+    "assigned": "Sarah Brown",
+    "status": "Working",
+    "created": "Jun 29, 2025"
+  },
+  {
+    "id": 3107,
+    "customer": "Alyssa Campos",
+    "company": "Clark Inc",
+    "email": "brownlatoya@richardson.net",
+    "phone": "+1-036-260-8170",
+    "value": "$7755.24",
+    "tags": [
+      "Follow up"
+    ],
+    "source": "UpWork",
+    "assigned": "Mike Smith",
+    "status": "Working",
+    "created": "Jul 06, 2025"
+  },
+  {
+    "id": 3108,
+    "customer": "Lisa Salas",
+    "company": "Kelly-Callahan",
+    "email": "katherineestrada@hotmail.com",
+    "phone": "809-134-1252x0358",
+    "value": "$8015.23",
+    "tags": [
+      "Follow up"
+    ],
+    "source": "Twitter",
+    "assigned": "Mike Smith",
+    "status": "Proposal Sent",
+    "created": "May 29, 2025"
+  },
+  {
+    "id": 3109,
+    "customer": "Laura Thompson",
+    "company": "Lopez-Richardson",
+    "email": "kdecker@gmail.com",
+    "phone": "601.895.0143x434",
+    "value": "$2583.86",
+    "tags": [
+      "Important"
+    ],
+    "source": "Dribbble",
+    "assigned": "Sarah Brown",
+    "status": "Qualified",
+    "created": "Jun 13, 2025"
+  },
+  {
+    "id": 3110,
+    "customer": "David Strickland",
+    "company": "Olsen, Fuller and Ryan",
+    "email": "leonrogers@yahoo.com",
+    "phone": "+1-171-431-0898",
+    "value": "$3305.32",
+    "tags": [
+      "Important"
+    ],
+    "source": "UpWork",
+    "assigned": "Robert Lee",
+    "status": "Working",
+    "created": "Aug 03, 2025"
+  },
+  {
+    "id": 3111,
+    "customer": "James Mclean",
+    "company": "Gutierrez, Flynn and Brooks",
+    "email": "martinricardo@gmail.com",
+    "phone": "001-800-597-9406x8739",
+    "value": "$4088.57",
+    "tags": [
+      "Urgent"
+    ],
+    "source": "Facebook",
+    "assigned": "Robert Lee",
+    "status": "Contacted",
+    "created": "Jan 12, 2025"
+  },
+  {
+    "id": 3112,
+    "customer": "Rebecca Church",
+    "company": "Kline Group",
+    "email": "walter92@yahoo.com",
+    "phone": "+1-918-827-2129x62447",
+    "value": "$8751.87",
+    "tags": [
+      "Follow up"
+    ],
+    "source": "UpWork",
+    "assigned": "Robert Lee",
+    "status": "Contacted",
+    "created": "May 28, 2025"
+  },
+  {
+    "id": 3113,
+    "customer": "Joshua Brown",
+    "company": "Sweeney Ltd",
+    "email": "paigemosley@dean.com",
+    "phone": "791-479-6216x489",
+    "value": "$1216.06",
+    "tags": [
+      "Follow up"
+    ],
+    "source": "UpWork",
+    "assigned": "Pamela Cain",
+    "status": "Customer",
+    "created": "May 30, 2025"
+  },
+  {
+    "id": 3114,
+    "customer": "Russell Luna",
+    "company": "Herrera-Campbell",
+    "email": "uthompson@gmail.com",
+    "phone": "018-616-3159",
+    "value": "$6008.98",
+    "tags": [
+      "Follow up"
+    ],
+    "source": "Twitter",
+    "assigned": "Sarah Brown",
+    "status": "Proposal Sent",
+    "created": "Jun 03, 2025"
+  },
+  {
+    "id": 3115,
+    "customer": "Todd May",
+    "company": "Oneill, Hernandez and Barber",
+    "email": "julienguyen@yahoo.com",
+    "phone": "115.485.6248x90632",
+    "value": "$3123.12",
+    "tags": [
+      "Follow up"
+    ],
+    "source": "LinkedIn",
+    "assigned": "Mike Smith",
+    "status": "Qualified",
+    "created": "Apr 29, 2025"
+  },
+  {
+    "id": 3116,
+    "customer": "Yvonne Rivers",
+    "company": "Bell-Schaefer",
+    "email": "vtaylor@stark-lewis.com",
+    "phone": "032.982.7458x8985",
+    "value": "$3016.64",
+    "tags": [
+      "Follow up"
+    ],
+    "source": "Facebook",
+    "assigned": "Alice Johnson",
+    "status": "Contacted",
+    "created": "Mar 10, 2025"
+  },
+  {
+    "id": 3117,
+    "customer": "Jaime Davis",
+    "company": "Perry-Henson",
+    "email": "malik05@harris-castaneda.com",
+    "phone": "(911)420-6352x42914",
+    "value": "$4560.9",
+    "tags": [
+      "Urgent"
+    ],
+    "source": "Dribbble",
+    "assigned": "Mike Smith",
+    "status": "Contacted",
+    "created": "Jul 24, 2025"
+  },
+  {
+    "id": 3118,
+    "customer": "Matthew Nichols",
+    "company": "Key Inc",
+    "email": "amy14@gmail.com",
+    "phone": "(717)438-5082",
+    "value": "$4978.75",
+    "tags": [
+      "Review"
+    ],
+    "source": "Facebook",
+    "assigned": "John Doe",
+    "status": "Qualified",
+    "created": "Mar 06, 2025"
+  },
+  {
+    "id": 3119,
+    "customer": "Kevin Ward",
+    "company": "Colon-Strong",
+    "email": "matthew16@brooks-waters.net",
+    "phone": "001-891-312-5936x48500",
+    "value": "$8112.28",
+    "tags": [
+      "Important"
+    ],
+    "source": "UpWork",
+    "assigned": "Sarah Brown",
+    "status": "Proposal Sent",
+    "created": "Feb 09, 2025"
+  },
+  {
+    "id": 3120,
+    "customer": "Denise Stevens",
+    "company": "Rocha, Mays and Williams",
+    "email": "millskurt@yahoo.com",
+    "phone": "735-789-9001x25712",
+    "value": "$9400.85",
+    "tags": [
+      "Urgent"
+    ],
+    "source": "LinkedIn",
+    "assigned": "Alice Johnson",
+    "status": "Working",
+    "created": "Jun 27, 2025"
+  },
+  {
+    "id": 3121,
+    "customer": "Tracey Waters",
+    "company": "Smith PLC",
+    "email": "christopher32@gmail.com",
+    "phone": "(174)591-9561x90583",
+    "value": "$6398.16",
+    "tags": [
+      "Review"
+    ],
+    "source": "Twitter",
+    "assigned": "Mike Smith",
+    "status": "Contacted",
+    "created": "May 25, 2025"
+  },
+  {
+    "id": 3122,
+    "customer": "Michael Lewis",
+    "company": "Price, Griffin and Pierce",
+    "email": "garrettmiles@hotmail.com",
+    "phone": "(932)895-5490",
+    "value": "$9324.15",
+    "tags": [
+      "Urgent"
+    ],
+    "source": "UpWork",
+    "assigned": "Sarah Brown",
+    "status": "Working",
+    "created": "Jul 28, 2025"
+  },
+  {
+    "id": 3123,
+    "customer": "Timothy Cross MD",
+    "company": "Ibarra, Jennings and Johnson",
+    "email": "michellehenderson@ochoa-dominguez.org",
+    "phone": "6998530941",
+    "value": "$5358.84",
+    "tags": [
+      "Urgent"
+    ],
+    "source": "Facebook",
+    "assigned": "Sarah Brown",
+    "status": "Customer",
+    "created": "Feb 26, 2025"
+  },
+  {
+    "id": 3124,
+    "customer": "Laura Owens",
+    "company": "Clayton-Sutton",
+    "email": "jamesgonzalez@rhodes.com",
+    "phone": "001-601-082-8760x14086",
+    "value": "$6334.21",
+    "tags": [
+      "Review"
+    ],
+    "source": "Facebook",
+    "assigned": "Mike Smith",
+    "status": "Proposal Sent",
+    "created": "May 14, 2025"
+  },
+  {
+    "id": 3125,
+    "customer": "Karla Moore",
+    "company": "Powers and Sons",
+    "email": "xgarrison@yahoo.com",
+    "phone": "6356156515",
+    "value": "$6835.48",
+    "tags": [
+      "Review"
+    ],
+    "source": "Twitter",
+    "assigned": "John Doe",
+    "status": "Contacted",
+    "created": "Jun 21, 2025"
+  },
+  {
+    "id": 3126,
+    "customer": "Shawn Castro",
+    "company": "Gray, Lopez and Ryan",
+    "email": "christinawilliams@wang.com",
+    "phone": "+1-938-181-7651x803",
+    "value": "$8429.76",
+    "tags": [
+      "Review"
+    ],
+    "source": "Google Ads",
+    "assigned": "Pamela Cain",
+    "status": "Proposal Sent",
+    "created": "Jan 06, 2025"
+  },
+  {
+    "id": 3127,
+    "customer": "Amber Jarvis",
+    "company": "Coleman Group",
+    "email": "jonathon73@hotmail.com",
+    "phone": "(209)616-1593",
+    "value": "$1381.86",
+    "tags": [
+      "Important"
+    ],
+    "source": "Google Ads",
+    "assigned": "Robert Lee",
+    "status": "Qualified",
+    "created": "Jul 09, 2025"
+  },
+  {
+    "id": 3128,
+    "customer": "Sonia Miller",
+    "company": "Thomas, Grant and Rodriguez",
+    "email": "jimmybrooks@carroll.net",
+    "phone": "(252)472-2363",
+    "value": "$3907.51",
+    "tags": [
+      "Urgent"
+    ],
+    "source": "LinkedIn",
+    "assigned": "Sarah Brown",
+    "status": "Proposal Sent",
+    "created": "Feb 09, 2025"
+  },
+  {
+    "id": 3129,
+    "customer": "John Walton",
+    "company": "Russell LLC",
+    "email": "wayneperry@williams-hudson.com",
+    "phone": "001-968-268-0219x23283",
+    "value": "$2898.28",
+    "tags": [
+      "Review"
+    ],
+    "source": "Facebook",
+    "assigned": "Mike Smith",
+    "status": "Proposal Sent",
+    "created": "Feb 12, 2025"
+  },
+  {
+    "id": 3130,
+    "customer": "Timothy Singleton",
+    "company": "Holden-Delgado",
+    "email": "caitlynmatthews@bond.net",
+    "phone": "(016)891-6395",
+    "value": "$7098.05",
+    "tags": [
+      "Review"
+    ],
+    "source": "UpWork",
+    "assigned": "Alice Johnson",
+    "status": "Proposal Sent",
+    "created": "Mar 10, 2025"
+  },
+  {
+    "id": 3131,
+    "customer": "Jacqueline Hunter",
+    "company": "Palmer, Pratt and Cochran",
+    "email": "akirby@gmail.com",
+    "phone": "+1-333-360-1840",
+    "value": "$1584.78",
+    "tags": [
+      "Urgent"
+    ],
+    "source": "UpWork",
+    "assigned": "Pamela Cain",
+    "status": "Qualified",
+    "created": "Jun 15, 2025"
+  },
+  {
+    "id": 3132,
+    "customer": "Walter Randall",
+    "company": "Allen, Mills and Berry",
+    "email": "kayla87@rodriguez.net",
+    "phone": "(397)903-3920x07046",
+    "value": "$6775.17",
+    "tags": [
+      "Follow up"
+    ],
+    "source": "UpWork",
+    "assigned": "David Wilson",
+    "status": "Proposal Sent",
+    "created": "Mar 28, 2025"
+  },
+  {
+    "id": 3133,
+    "customer": "Steven Bell",
+    "company": "Dyer-Wallace",
+    "email": "lindamanning@hotmail.com",
+    "phone": "+1-560-264-7106x7680",
+    "value": "$3240.0",
+    "tags": [
+      "Urgent"
+    ],
+    "source": "Google Ads",
+    "assigned": "John Doe",
+    "status": "Qualified",
+    "created": "Jul 22, 2025"
+  },
+  {
+    "id": 3134,
+    "customer": "Luke Brown",
+    "company": "White Ltd",
+    "email": "jose79@gmail.com",
+    "phone": "3282058094",
+    "value": "$7971.22",
+    "tags": [
+      "Review"
+    ],
+    "source": "Twitter",
+    "assigned": "Robert Lee",
+    "status": "Proposal Sent",
+    "created": "Feb 13, 2025"
+  },
+  {
+    "id": 3135,
+    "customer": "Michael Roberts",
+    "company": "Reyes, Mathews and Vazquez",
+    "email": "loweyvonne@curtis.org",
+    "phone": "5813109343",
+    "value": "$5073.31",
+    "tags": [
+      "Review"
+    ],
+    "source": "UpWork",
+    "assigned": "Alice Johnson",
+    "status": "Proposal Sent",
+    "created": "Apr 17, 2025"
+  },
+  {
+    "id": 3136,
+    "customer": "Lisa Mendez",
+    "company": "Wells PLC",
+    "email": "awilson@rivera.org",
+    "phone": "+1-694-591-1383x271",
+    "value": "$7679.14",
+    "tags": [
+      "Cold Lead"
+    ],
+    "source": "Dribbble",
+    "assigned": "Mike Smith",
+    "status": "Contacted",
+    "created": "Mar 19, 2025"
+  },
+  {
+    "id": 3137,
+    "customer": "Shane Hobbs",
+    "company": "Miller, Colon and Evans",
+    "email": "reidjennifer@gmail.com",
+    "phone": "001-075-907-3194x29981",
+    "value": "$7797.64",
+    "tags": [
+      "Follow up"
+    ],
+    "source": "UpWork",
+    "assigned": "Mike Smith",
+    "status": "Qualified",
+    "created": "Feb 05, 2025"
+  },
+  {
+    "id": 3138,
+    "customer": "Ethan Gonzalez",
+    "company": "Richardson Group",
+    "email": "brooksjessica@yahoo.com",
+    "phone": "965.297.7173",
+    "value": "$5472.89",
+    "tags": [
+      "Important"
+    ],
+    "source": "LinkedIn",
+    "assigned": "Mike Smith",
+    "status": "Contacted",
+    "created": "Jun 16, 2025"
+  },
+  {
+    "id": 3139,
+    "customer": "Ariana Heath",
+    "company": "Garcia, Burns and Williams",
+    "email": "michaeljones@sanchez-barnes.com",
+    "phone": "+1-708-020-4215",
+    "value": "$8117.28",
+    "tags": [
+      "Follow up"
+    ],
+    "source": "UpWork",
+    "assigned": "Alice Johnson",
+    "status": "Customer",
+    "created": "May 22, 2025"
+  },
+  {
+    "id": 3140,
+    "customer": "James Edwards",
+    "company": "Fuller Inc",
+    "email": "arthur83@tyler.info",
+    "phone": "+1-212-785-9318x3138",
+    "value": "$1571.81",
+    "tags": [
+      "Urgent"
+    ],
+    "source": "Twitter",
+    "assigned": "Pamela Cain",
+    "status": "Qualified",
+    "created": "Jan 27, 2025"
+  },
+  {
+    "id": 3141,
+    "customer": "Jeffrey Arnold",
+    "company": "Spencer, Costa and Mckee",
+    "email": "amberbrown@hotmail.com",
+    "phone": "1743966174",
+    "value": "$7426.14",
+    "tags": [
+      "Follow up"
+    ],
+    "source": "LinkedIn",
+    "assigned": "Alice Johnson",
+    "status": "Working",
+    "created": "Apr 23, 2025"
+  },
+  {
+    "id": 3142,
+    "customer": "Savannah Petersen",
+    "company": "Wilson Group",
+    "email": "lisaobrien@yahoo.com",
+    "phone": "001-282-653-7852x371",
+    "value": "$8864.17",
+    "tags": [
+      "Cold Lead"
+    ],
+    "source": "Twitter",
+    "assigned": "John Doe",
+    "status": "Contacted",
+    "created": "Jul 14, 2025"
+  },
+  {
+    "id": 3143,
+    "customer": "Danielle Lee",
+    "company": "Powers, Perkins and Jacobs",
+    "email": "sean18@stone-spencer.com",
+    "phone": "076-037-0097x138",
+    "value": "$9680.17",
+    "tags": [
+      "Follow up"
+    ],
+    "source": "LinkedIn",
+    "assigned": "Sarah Brown",
+    "status": "Customer",
+    "created": "Aug 02, 2025"
+  },
+  {
+    "id": 3144,
+    "customer": "Evan White",
+    "company": "Brandt, Rodriguez and Love",
+    "email": "mthomas@gmail.com",
+    "phone": "(529)184-3531",
+    "value": "$9285.41",
+    "tags": [
+      "Cold Lead"
+    ],
+    "source": "Twitter",
+    "assigned": "Pamela Cain",
+    "status": "Qualified",
+    "created": "Mar 08, 2025"
+  },
+  {
+    "id": 3145,
+    "customer": "Erin Anderson",
+    "company": "Brown, Mckenzie and Barron",
+    "email": "whitakerapril@hotmail.com",
+    "phone": "+1-888-094-2336",
+    "value": "$1358.74",
+    "tags": [
+      "Urgent"
+    ],
+    "source": "LinkedIn",
+    "assigned": "Pamela Cain",
+    "status": "Proposal Sent",
+    "created": "Jul 29, 2025"
+  },
+  {
+    "id": 3146,
+    "customer": "Katherine Scott",
+    "company": "Zamora-Coleman",
+    "email": "cynthia37@walters.com",
+    "phone": "015-317-2383",
+    "value": "$6159.61",
+    "tags": [
+      "Cold Lead"
+    ],
+    "source": "Twitter",
+    "assigned": "John Doe",
+    "status": "Contacted",
+    "created": "Apr 23, 2025"
+  },
+  {
+    "id": 3147,
+    "customer": "Andrea Anderson",
+    "company": "Lewis PLC",
+    "email": "kathy78@ramirez.com",
+    "phone": "840.870.0094x1458",
+    "value": "$3085.06",
+    "tags": [
+      "Urgent"
+    ],
+    "source": "Google Ads",
+    "assigned": "Mike Smith",
+    "status": "Working",
+    "created": "May 03, 2025"
+  },
+  {
+    "id": 3148,
+    "customer": "Evan Maddox",
+    "company": "Cruz PLC",
+    "email": "hornsusan@hotmail.com",
+    "phone": "230-121-0855x46423",
+    "value": "$8594.82",
+    "tags": [
+      "Review"
+    ],
+    "source": "UpWork",
+    "assigned": "Sarah Brown",
+    "status": "Contacted",
+    "created": "Jan 14, 2025"
+  },
+  {
+    "id": 3149,
+    "customer": "Cynthia Mccormick",
+    "company": "Lang LLC",
+    "email": "katherine31@gmail.com",
+    "phone": "(355)925-0020",
+    "value": "$6504.91",
+    "tags": [
+      "Important"
+    ],
+    "source": "UpWork",
+    "assigned": "John Doe",
+    "status": "Proposal Sent",
+    "created": "Jun 06, 2025"
+  },
+  {
+    "id": 3150,
+    "customer": "Christina Farmer",
+    "company": "Gentry-Morales",
+    "email": "stevencole@hernandez.com",
+    "phone": "+1-367-099-1132x681",
+    "value": "$6177.46",
+    "tags": [
+      "Cold Lead"
+    ],
+    "source": "UpWork",
+    "assigned": "David Wilson",
+    "status": "Contacted",
+    "created": "Mar 10, 2025"
+  },
+  {
+    "id": 3151,
+    "customer": "Sharon Cook",
+    "company": "Mcdonald-Glass",
+    "email": "monroejessica@odom-miranda.com",
+    "phone": "849.209.1328x0383",
+    "value": "$7303.12",
+    "tags": [
+      "Follow up"
+    ],
+    "source": "UpWork",
+    "assigned": "Robert Lee",
+    "status": "Customer",
+    "created": "Mar 24, 2025"
+  },
+  {
+    "id": 3152,
+    "customer": "Thomas Hawkins",
+    "company": "Hopkins, Spencer and Jenkins",
+    "email": "lewisdanielle@hotmail.com",
+    "phone": "(399)341-3198x36036",
+    "value": "$4379.12",
+    "tags": [
+      "Important"
+    ],
+    "source": "UpWork",
+    "assigned": "Sarah Brown",
+    "status": "Proposal Sent",
+    "created": "Jul 04, 2025"
+  },
+  {
+    "id": 3153,
+    "customer": "Lisa Hunter",
+    "company": "Phillips-Dean",
+    "email": "tgross@hanson.com",
+    "phone": "(664)326-1308x5639",
+    "value": "$9579.81",
+    "tags": [
+      "Cold Lead"
+    ],
+    "source": "LinkedIn",
+    "assigned": "Alice Johnson",
+    "status": "Working",
+    "created": "May 26, 2025"
+  },
+  {
+    "id": 3154,
+    "customer": "Heather Clark",
+    "company": "Oneal Inc",
+    "email": "brandongrimes@gmail.com",
+    "phone": "837-844-6235x9807",
+    "value": "$6514.51",
+    "tags": [
+      "Follow up"
+    ],
+    "source": "Google Ads",
+    "assigned": "John Doe",
+    "status": "Qualified",
+    "created": "Jul 07, 2025"
+  },
+  {
+    "id": 3155,
+    "customer": "Andrew Gardner",
+    "company": "Bryant and Sons",
+    "email": "valeriewise@gmail.com",
+    "phone": "(530)118-7292x2664",
+    "value": "$5910.56",
+    "tags": [
+      "Urgent"
+    ],
+    "source": "UpWork",
+    "assigned": "Pamela Cain",
+    "status": "Contacted",
+    "created": "Jan 27, 2025"
+  },
+  {
+    "id": 3156,
+    "customer": "Kathy Mckinney",
+    "company": "Wilson-Williams",
+    "email": "vdelgado@hotmail.com",
+    "phone": "+1-210-119-3834",
+    "value": "$3713.77",
+    "tags": [
+      "Follow up"
+    ],
+    "source": "LinkedIn",
+    "assigned": "Robert Lee",
+    "status": "Working",
+    "created": "Feb 20, 2025"
+  },
+  {
+    "id": 3157,
+    "customer": "Michael Davis",
+    "company": "Bartlett and Sons",
+    "email": "vmoody@gmail.com",
+    "phone": "(560)000-8896x20933",
+    "value": "$1066.73",
+    "tags": [
+      "Important"
+    ],
+    "source": "LinkedIn",
+    "assigned": "Robert Lee",
+    "status": "Working",
+    "created": "Jul 26, 2025"
+  },
+  {
+    "id": 3158,
+    "customer": "Jessica Ramirez",
+    "company": "Steele, Bennett and Rose",
+    "email": "jeffery63@yahoo.com",
+    "phone": "8321201324",
+    "value": "$4663.13",
+    "tags": [
+      "Cold Lead"
+    ],
+    "source": "LinkedIn",
+    "assigned": "Mike Smith",
+    "status": "Contacted",
+    "created": "Aug 04, 2025"
+  },
+  {
+    "id": 3159,
+    "customer": "Christina Walton",
+    "company": "Parker-Ware",
+    "email": "owilson@patrick.com",
+    "phone": "2706312136",
+    "value": "$7417.44",
+    "tags": [
+      "Cold Lead"
+    ],
+    "source": "Google Ads",
+    "assigned": "Alice Johnson",
+    "status": "Working",
+    "created": "Jun 09, 2025"
+  },
+  {
+    "id": 3160,
+    "customer": "James Gonzalez",
+    "company": "Rivera, Smith and Bailey",
+    "email": "boothallison@burke.com",
+    "phone": "879.765.8664",
+    "value": "$3661.64",
+    "tags": [
+      "Important"
+    ],
+    "source": "Facebook",
+    "assigned": "John Doe",
+    "status": "Qualified",
+    "created": "Mar 05, 2025"
+  },
+  {
+    "id": 3161,
+    "customer": "Lisa Brown",
+    "company": "Smith-Lopez",
+    "email": "meghan66@ruiz.com",
+    "phone": "(285)950-0697x4619",
+    "value": "$4059.78",
+    "tags": [
+      "Urgent"
+    ],
+    "source": "Twitter",
+    "assigned": "Alice Johnson",
+    "status": "Customer",
+    "created": "Jan 21, 2025"
+  },
+  {
+    "id": 3162,
+    "customer": "Mario Hughes",
+    "company": "Williams-Mcmahon",
+    "email": "hhowell@hotmail.com",
+    "phone": "315-431-7332",
+    "value": "$6070.66",
+    "tags": [
+      "Follow up"
+    ],
+    "source": "Twitter",
+    "assigned": "Sarah Brown",
+    "status": "Qualified",
+    "created": "Mar 22, 2025"
+  },
+  {
+    "id": 3163,
+    "customer": "Dawn Banks",
+    "company": "Villarreal Ltd",
+    "email": "vincentkim@hotmail.com",
+    "phone": "3666043720",
+    "value": "$6159.81",
+    "tags": [
+      "Follow up"
+    ],
+    "source": "UpWork",
+    "assigned": "Pamela Cain",
+    "status": "Contacted",
+    "created": "Feb 27, 2025"
+  },
+  {
+    "id": 3164,
+    "customer": "Steven Keith",
+    "company": "Ford, Morales and Cook",
+    "email": "deborahparks@yahoo.com",
+    "phone": "+1-691-535-8895",
+    "value": "$6928.16",
+    "tags": [
+      "Urgent"
+    ],
+    "source": "Twitter",
+    "assigned": "Robert Lee",
+    "status": "Proposal Sent",
+    "created": "Aug 03, 2025"
+  },
+  {
+    "id": 3165,
+    "customer": "Diana Newman",
+    "company": "Odom-Young",
+    "email": "stephenstephens@hotmail.com",
+    "phone": "413-847-2148x3480",
+    "value": "$6052.73",
+    "tags": [
+      "Important"
+    ],
+    "source": "Google Ads",
+    "assigned": "John Doe",
+    "status": "Contacted",
+    "created": "Jan 04, 2025"
+  },
+  {
+    "id": 3166,
+    "customer": "Sara Wu",
+    "company": "Price LLC",
+    "email": "elizabeth91@walker-austin.com",
+    "phone": "+1-052-449-1478x288",
+    "value": "$3381.1",
+    "tags": [
+      "Urgent"
+    ],
+    "source": "LinkedIn",
+    "assigned": "David Wilson",
+    "status": "Proposal Sent",
+    "created": "May 13, 2025"
+  },
+  {
+    "id": 3167,
+    "customer": "Shannon Mcgrath",
+    "company": "Weaver Group",
+    "email": "tromero@yahoo.com",
+    "phone": "947.943.4806",
+    "value": "$3990.77",
+    "tags": [
+      "Review"
+    ],
+    "source": "LinkedIn",
+    "assigned": "David Wilson",
+    "status": "Proposal Sent",
+    "created": "Aug 11, 2025"
+  },
+  {
+    "id": 3168,
+    "customer": "Melody Suarez",
+    "company": "Le-White",
+    "email": "jason39@gmail.com",
+    "phone": "(508)296-8884",
+    "value": "$6498.83",
+    "tags": [
+      "Follow up"
+    ],
+    "source": "LinkedIn",
+    "assigned": "John Doe",
+    "status": "Contacted",
+    "created": "Apr 03, 2025"
+  },
+  {
+    "id": 3169,
+    "customer": "Lisa Fisher",
+    "company": "Cohen, Zamora and Turner",
+    "email": "umiles@mendoza-mason.info",
+    "phone": "001-030-323-2543x605",
+    "value": "$3510.5",
+    "tags": [
+      "Review"
+    ],
+    "source": "UpWork",
+    "assigned": "Pamela Cain",
+    "status": "Qualified",
+    "created": "Aug 12, 2025"
+  },
+  {
+    "id": 3170,
+    "customer": "Julie Vincent",
+    "company": "Wallace, Morris and Larson",
+    "email": "rebecca06@hotmail.com",
+    "phone": "+1-566-319-6174x6334",
+    "value": "$9929.12",
+    "tags": [
+      "Cold Lead"
+    ],
+    "source": "LinkedIn",
+    "assigned": "Robert Lee",
+    "status": "Customer",
+    "created": "Apr 28, 2025"
+  },
+  {
+    "id": 3171,
+    "customer": "Raymond Garza",
+    "company": "Hooper-Gentry",
+    "email": "pricealexis@heath.info",
+    "phone": "(230)541-1644x05910",
+    "value": "$3806.31",
+    "tags": [
+      "Cold Lead"
+    ],
+    "source": "Google Ads",
+    "assigned": "John Doe",
+    "status": "Working",
+    "created": "May 06, 2025"
+  },
+  {
+    "id": 3172,
+    "customer": "Chad Rodriguez",
+    "company": "Brown-Martinez",
+    "email": "angelicamoreno@gmail.com",
+    "phone": "+1-150-286-6285x126",
+    "value": "$1522.07",
+    "tags": [
+      "Urgent"
+    ],
+    "source": "Dribbble",
+    "assigned": "David Wilson",
+    "status": "Contacted",
+    "created": "Mar 25, 2025"
+  },
+  {
+    "id": 3173,
+    "customer": "Linda Neal",
+    "company": "Daugherty-Gibbs",
+    "email": "kevinmccormick@hotmail.com",
+    "phone": "6248534221",
+    "value": "$7836.61",
+    "tags": [
+      "Follow up"
+    ],
+    "source": "UpWork",
+    "assigned": "Pamela Cain",
+    "status": "Customer",
+    "created": "May 12, 2025"
+  },
+  {
+    "id": 3174,
+    "customer": "Kevin Beard",
+    "company": "Bell-Bird",
+    "email": "xlawrence@crawford.com",
+    "phone": "+1-133-007-4886x01711",
+    "value": "$4723.13",
+    "tags": [
+      "Review"
+    ],
+    "source": "Google Ads",
+    "assigned": "Sarah Brown",
+    "status": "Qualified",
+    "created": "Mar 26, 2025"
+  },
+  {
+    "id": 3175,
+    "customer": "Michael Rodriguez",
+    "company": "Jacobs-Merritt",
+    "email": "marcuswilson@hotmail.com",
+    "phone": "096.171.0597x04336",
+    "value": "$7789.73",
+    "tags": [
+      "Urgent"
+    ],
+    "source": "Dribbble",
+    "assigned": "Pamela Cain",
+    "status": "Working",
+    "created": "Jun 27, 2025"
+  },
+  {
+    "id": 3176,
+    "customer": "Aaron Santos",
+    "company": "Jensen-Mitchell",
+    "email": "hinestimothy@moore.org",
+    "phone": "(924)132-2732",
+    "value": "$9407.31",
+    "tags": [
+      "Follow up"
+    ],
+    "source": "LinkedIn",
+    "assigned": "Pamela Cain",
+    "status": "Qualified",
+    "created": "Jun 10, 2025"
+  },
+  {
+    "id": 3177,
+    "customer": "Jon Gallagher",
+    "company": "Knight PLC",
+    "email": "collinstroy@patel.biz",
+    "phone": "1939761907",
+    "value": "$1648.48",
+    "tags": [
+      "Review"
+    ],
+    "source": "Dribbble",
+    "assigned": "Mike Smith",
+    "status": "Customer",
+    "created": "Jan 13, 2025"
+  },
+  {
+    "id": 3178,
+    "customer": "Eddie Johnson",
+    "company": "Murphy, Stevenson and Lucas",
+    "email": "carl37@gmail.com",
+    "phone": "(922)408-9173",
+    "value": "$2744.41",
+    "tags": [
+      "Review"
+    ],
+    "source": "LinkedIn",
+    "assigned": "John Doe",
+    "status": "Working",
+    "created": "Feb 23, 2025"
+  },
+  {
+    "id": 3179,
+    "customer": "Jim Garcia",
+    "company": "Myers LLC",
+    "email": "ginahudson@johnson.com",
+    "phone": "+1-042-889-4727x7752",
+    "value": "$1719.85",
+    "tags": [
+      "Important"
+    ],
+    "source": "LinkedIn",
+    "assigned": "Mike Smith",
+    "status": "Customer",
+    "created": "Mar 23, 2025"
+  },
+  {
+    "id": 3180,
+    "customer": "Monica Brown",
+    "company": "Neal-Coleman",
+    "email": "foxsheila@yahoo.com",
+    "phone": "789.483.7917x731",
+    "value": "$4679.29",
+    "tags": [
+      "Important"
+    ],
+    "source": "Google Ads",
+    "assigned": "John Doe",
+    "status": "Customer",
+    "created": "May 28, 2025"
+  },
+  {
+    "id": 3181,
+    "customer": "Samantha Barr",
+    "company": "Haynes, Harris and Steele",
+    "email": "burkebrian@hotmail.com",
+    "phone": "287-660-3282x161",
+    "value": "$6686.97",
+    "tags": [
+      "Important"
+    ],
+    "source": "UpWork",
+    "assigned": "Pamela Cain",
+    "status": "Working",
+    "created": "Jan 02, 2025"
+  },
+  {
+    "id": 3182,
+    "customer": "Alexis Mitchell",
+    "company": "Cole-Harmon",
+    "email": "micheal58@gmail.com",
+    "phone": "(341)721-7894",
+    "value": "$2780.31",
+    "tags": [
+      "Review"
+    ],
+    "source": "Google Ads",
+    "assigned": "Robert Lee",
+    "status": "Qualified",
+    "created": "Feb 26, 2025"
+  },
+  {
+    "id": 3183,
+    "customer": "Michele Montgomery",
+    "company": "Combs, Edwards and Pitts",
+    "email": "williamsmichael@hotmail.com",
+    "phone": "430-327-6247",
+    "value": "$4092.5",
+    "tags": [
+      "Review"
+    ],
+    "source": "Twitter",
+    "assigned": "David Wilson",
+    "status": "Customer",
+    "created": "Mar 04, 2025"
+  },
+  {
+    "id": 3184,
+    "customer": "Isaiah Ayala",
+    "company": "Brown Ltd",
+    "email": "ypeterson@hotmail.com",
+    "phone": "001-499-780-6466x236",
+    "value": "$8699.53",
+    "tags": [
+      "Important"
+    ],
+    "source": "Dribbble",
+    "assigned": "Sarah Brown",
+    "status": "Working",
+    "created": "Mar 26, 2025"
+  },
+  {
+    "id": 3185,
+    "customer": "Brian Foster",
+    "company": "Rogers-Suarez",
+    "email": "pburns@yahoo.com",
+    "phone": "582-365-5412x33245",
+    "value": "$6222.76",
+    "tags": [
+      "Review"
+    ],
+    "source": "Facebook",
+    "assigned": "Pamela Cain",
+    "status": "Working",
+    "created": "May 08, 2025"
+  },
+  {
+    "id": 3186,
+    "customer": "Adrian Moreno",
+    "company": "Adams-Edwards",
+    "email": "nguyenmary@livingston.com",
+    "phone": "(933)360-3781x1692",
+    "value": "$6372.72",
+    "tags": [
+      "Important"
+    ],
+    "source": "Facebook",
+    "assigned": "Mike Smith",
+    "status": "Contacted",
+    "created": "Feb 16, 2025"
+  },
+  {
+    "id": 3187,
+    "customer": "Jenna Nash",
+    "company": "Mejia-Allen",
+    "email": "fsellers@yahoo.com",
+    "phone": "(447)664-6461x29101",
+    "value": "$1692.33",
+    "tags": [
+      "Cold Lead"
+    ],
+    "source": "Google Ads",
+    "assigned": "Alice Johnson",
+    "status": "Customer",
+    "created": "Jun 02, 2025"
+  },
+  {
+    "id": 3188,
+    "customer": "Nicholas Webb",
+    "company": "Webb-Oconnell",
+    "email": "brandon86@hotmail.com",
+    "phone": "885-587-4577x03014",
+    "value": "$1626.32",
+    "tags": [
+      "Review"
+    ],
+    "source": "Twitter",
+    "assigned": "Robert Lee",
+    "status": "Proposal Sent",
+    "created": "May 10, 2025"
+  },
+  {
+    "id": 3189,
+    "customer": "Michael Clark",
+    "company": "Berger Ltd",
+    "email": "whiteleslie@yahoo.com",
+    "phone": "(976)934-0745x9086",
+    "value": "$3962.54",
+    "tags": [
+      "Follow up"
+    ],
+    "source": "Google Ads",
+    "assigned": "David Wilson",
+    "status": "Contacted",
+    "created": "Mar 21, 2025"
+  },
+  {
+    "id": 3190,
+    "customer": "Justin Davis",
+    "company": "Smith Inc",
+    "email": "lopezamy@dillon.biz",
+    "phone": "+1-735-743-4909x08153",
+    "value": "$3819.29",
+    "tags": [
+      "Important"
+    ],
+    "source": "Twitter",
+    "assigned": "Mike Smith",
+    "status": "Working",
+    "created": "Jun 19, 2025"
+  },
+  {
+    "id": 3191,
+    "customer": "Eric Stanley",
+    "company": "Lewis-Martinez",
+    "email": "susanwilson@yahoo.com",
+    "phone": "074-626-1152",
+    "value": "$9211.85",
+    "tags": [
+      "Important"
+    ],
+    "source": "Twitter",
+    "assigned": "Robert Lee",
+    "status": "Contacted",
+    "created": "Jul 27, 2025"
+  },
+  {
+    "id": 3192,
+    "customer": "Gail Garrett",
+    "company": "Frazier-Gordon",
+    "email": "patrickjennifer@yahoo.com",
+    "phone": "(265)223-4026",
+    "value": "$5543.6",
+    "tags": [
+      "Important"
+    ],
+    "source": "LinkedIn",
+    "assigned": "Alice Johnson",
+    "status": "Customer",
+    "created": "Jul 27, 2025"
+  },
+  {
+    "id": 3193,
+    "customer": "Frank Smith",
+    "company": "Martinez Ltd",
+    "email": "collinsvanessa@gmail.com",
+    "phone": "+1-231-505-0580x0413",
+    "value": "$8238.64",
+    "tags": [
+      "Follow up"
+    ],
+    "source": "Dribbble",
+    "assigned": "Pamela Cain",
+    "status": "Proposal Sent",
+    "created": "Jul 19, 2025"
+  },
+  {
+    "id": 3194,
+    "customer": "Michael Rivera",
+    "company": "Levine-Sampson",
+    "email": "tiffany87@yahoo.com",
+    "phone": "(163)208-4629x4157",
+    "value": "$7034.87",
+    "tags": [
+      "Important"
+    ],
+    "source": "UpWork",
+    "assigned": "Alice Johnson",
+    "status": "Proposal Sent",
+    "created": "May 15, 2025"
+  },
+  {
+    "id": 3195,
+    "customer": "William Jones",
+    "company": "Murphy, Campbell and Taylor",
+    "email": "colemangrant@li-anderson.com",
+    "phone": "001-894-209-7434",
+    "value": "$7128.71",
+    "tags": [
+      "Urgent"
+    ],
+    "source": "LinkedIn",
+    "assigned": "Sarah Brown",
+    "status": "Qualified",
+    "created": "Feb 06, 2025"
+  },
+  {
+    "id": 3196,
+    "customer": "Robert Austin",
+    "company": "Mcclain-Nelson",
+    "email": "kellynicole@yahoo.com",
+    "phone": "(072)863-8709x9137",
+    "value": "$2868.88",
+    "tags": [
+      "Cold Lead"
+    ],
+    "source": "Dribbble",
+    "assigned": "Alice Johnson",
+    "status": "Qualified",
+    "created": "Aug 16, 2025"
+  },
+  {
+    "id": 3197,
+    "customer": "Lisa Perez",
+    "company": "Barajas-Banks",
+    "email": "carterkevin@gmail.com",
+    "phone": "012-122-9083",
+    "value": "$3528.72",
+    "tags": [
+      "Urgent"
+    ],
+    "source": "Twitter",
+    "assigned": "John Doe",
+    "status": "Customer",
+    "created": "Jan 13, 2025"
+  },
+  {
+    "id": 3198,
+    "customer": "Anthony Cook",
+    "company": "Robinson, Blevins and Roberts",
+    "email": "christopherwade@soto.net",
+    "phone": "8151197687",
+    "value": "$8782.98",
+    "tags": [
+      "Review"
+    ],
+    "source": "Dribbble",
+    "assigned": "Sarah Brown",
+    "status": "Proposal Sent",
+    "created": "Jul 01, 2025"
+  },
+  {
+    "id": 3199,
+    "customer": "Connor Fernandez",
+    "company": "Smith-Johnson",
+    "email": "patriciacruz@bolton.net",
+    "phone": "109.488.5044",
+    "value": "$1765.62",
+    "tags": [
+      "Follow up"
+    ],
+    "source": "Dribbble",
+    "assigned": "Robert Lee",
+    "status": "Proposal Sent",
+    "created": "Jun 25, 2025"
+  }
+]
