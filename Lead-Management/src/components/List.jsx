@@ -6,6 +6,7 @@ import Badge from 'react-bootstrap/Badge';
 import OverlayTrigger from 'react-bootstrap/OverlayTrigger';
 import Tooltip from 'react-bootstrap/Tooltip';
 import Pagination from 'react-bootstrap/Pagination';
+import { FaArrowLeft,FaArrowRight } from react-icons/fa";
 
 function List() {
     const [currentPage, setCurrentPage] = useState(1);
@@ -87,7 +88,7 @@ function List() {
                         disabled={currentPage === 1}
                         style={{ color: "black" }}
                     >
-                        Previous
+                       <FaArrowLeft/> Previous
                     </Pagination.Prev>
                 </Pagination>
 
@@ -141,7 +142,7 @@ function List() {
                         disabled={currentPage === totalPages}
                         style={{ color: "black" }}
                     >
-                        Next
+                        Next <FaArrowRight />
                     </Pagination.Next>
                 </Pagination>
             </div>
